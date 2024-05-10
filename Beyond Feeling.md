@@ -7,12 +7,11 @@
 <font face="幼圆" font color=black>
 <div STYLE="page-break-after: always;"></div>
 
-# Introduction {#introduction}
-- [第1章 你是谁](#第1章 你是谁)
-# Methods {#methods}
-- [第2章 什么是批判性思维](##第2章 什么是批判性思维)
-# Results {#results}
-
+# Table of Contents
+- [Introduction](#introduction)
+- [Methods](#methods)
+- [Results](#results)
+- [Conclusion](#conclusion)
 
 <div STYLE="page-break-after: always;"></div>
 

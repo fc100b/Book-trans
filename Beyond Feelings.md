@@ -9,10 +9,9 @@
 
 # Table of Contents
 - [第一部分](#第一部分)
-- [第1章](##第1章)
-- [Methods](#methods)
-- [Results](#results)
-- [Conclusion](#conclusion)
+  - [第1章](##第1章)
+  - [第2章](##第2章)
+    - [直觉的作用](###直觉的作用)
 
 <div STYLE="page-break-after: always;"></div>
 

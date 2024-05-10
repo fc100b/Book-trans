@@ -1,11 +1,3 @@
-<head>
-  <style>
-    h1, h2 ,h3{
-      text-align: center;
-    }
-  </style>
-</head>
-
 <center><font face="幼圆" font color=black  size=10>《超越感觉》</center></font>
 
 <center><font face="幼圆" font color=black size=6>批判性思维指南</center></font>
